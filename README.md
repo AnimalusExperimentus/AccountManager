@@ -14,3 +14,6 @@ Filtros por período e categoria
 Base de dados: tabelas users, transactions, categories — muito simples.
 O que aprendes: operações CRUD completas, queries com agregações no PostgreSQL (SUM, GROUP BY), autenticação básica, gráficos no frontend.
 
+# Info Related to db postgress
+    pass = root
+    postgress port=5432
